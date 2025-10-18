@@ -127,10 +127,31 @@ java -jar target/graphml-to-checklist.jar
 
 ---
 
-## Academic Context
+## 🧠 Acknowledgment
 
-This project was developed as part of the **Diploma Thesis** of  
-**Papadopoulos Konstantinos**, Undergraduate Student  
-**Department of Computer Science and Engineering, University of Ioannina**  
+This repository contains the complete software pipeline developed in the context of our diploma thesis, integrating three modular tools for automated legal text analysis and compliance extraction:
 
-Supervisor: **Professor Panos Vasiliadis**
+1. **Legislative Text Parser** — co-developed by **Kostas Papadopoulos**, **Vasileios Ioannis Bouzampalidis**, and **Elias Papathanasiou**  
+2. **Law-to-Property-Graph Generator** — developed by **Kostas Papadopoulos**  
+3. **GraphML-to-Checklist Generator** — developed by **Kostas Papadopoulos**
+
+Together, these tools form an end-to-end system capable of transforming legislative documents into structured property graphs and actionable compliance checklists.
+
+---
+
+## 📬 Contact
+
+For inquiries, collaborations, or academic references:
+
+| Name | Email | GitHub |
+|------|--------|--------|
+| **Kostas Papadopoulos** | kostaspapadopoulos.dev@gmail.com | [@kostaspapadopoulos](https://github.com/kostaspapdopoulos) |
+
+---
+
+### 🏛️ Provenance
+
+Developed as part of the **Diploma Thesis “A Software System for Automatically Encoding Legislative Rules in Checklists using OpenAI’s GPT-4o-mini”**  
+at the **Department of Computer Science & Engineering, University of Ioannina (Greece)**.  
+Supervised by
+- [**Dr. Panos Vasiliadis**](https://github.com/pvassil)
